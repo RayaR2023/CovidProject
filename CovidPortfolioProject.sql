@@ -1,3 +1,4 @@
+--learned this from Alex the Analyst's portfolio project video
 /*
 Covid 19 Data Exploration 
 
